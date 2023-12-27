@@ -1,0 +1,12 @@
+query LaunchesQuery($limit: Int) {
+	launches(limit: $limit ) {
+		id,
+		launch_year
+		launch_date_utc
+		mission_name
+		rocket {
+			rocket_type
+			rocket_name
+		}
+	}
+}
