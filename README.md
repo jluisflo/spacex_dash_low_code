@@ -11,4 +11,4 @@ This app is built using Appsmith. Turn any datasource into an internal app in mi
 
 ###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://app.appsmith.com/applications/658c6a1194a45b39f16aa2ed/pages/658c6a9094a45b39f16aa2f4) [![](https://assets.appsmith.com/git-sync/Buttons2.svg)](https://app.appsmith.com/applications/658c6a1194a45b39f16aa2ed/pages/658c6a9094a45b39f16aa2f4/edit)
 
-![image](https://github.com/jluisflo/spacex_dash_low_code/assets/77704331/17115d6b-55db-4ec2-9e49-f6017ff0fe26)
+![image](https://github.com/jluisflo/spacex_dash_low_code/assets/77704331/162504ed-946a-448b-928b-1da469c55068)
